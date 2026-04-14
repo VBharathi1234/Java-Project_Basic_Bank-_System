@@ -62,7 +62,7 @@ customerName (String): Account holder's name
 balance (double): Current account balance
 
 
-Methods:
+**Methods:**
 
 Constructor: Initializes account with all required fields
 Getters: Provides read access to private fields
