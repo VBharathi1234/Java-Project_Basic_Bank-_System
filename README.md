@@ -129,15 +129,6 @@ What the System Can Do
 ✅ Validate account existence before operations
 ✅ Handle errors gracefully with appropriate messages
 ✅ Maintain multiple accounts simultaneously
-Current Limitations
-❌ No withdrawal functionality
-❌ No user input interface (hardcoded in main)
-❌ No data persistence (data lost when program ends)
-❌ No negative balance prevention
-❌ No transaction history tracking
-❌ No interest calculation
-❌ No account deletion capability
-❌ No password/authentication system
 
 Object-Oriented Principles Applied
 **1. Encapsulation**
